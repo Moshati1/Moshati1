@@ -3,5 +3,5 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 
-  - [Police Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Police Project](https://github.com/Moshati1/Police_project)
 
